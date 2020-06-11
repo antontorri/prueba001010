@@ -1,2 +1,3 @@
 Hola, amigos. ¿Qué tal han estado?
 Espero que muy bien xD
+Bueno el día de hoy les voy a enseñar como colocar Data Tables en Ajax - CodeIgniter
