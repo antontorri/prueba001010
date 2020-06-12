@@ -1,5 +1,6 @@
 Hola, amigos. ¿Qué tal han estado?
 Espero que muy bien xD
 Bueno el día de hoy les voy a enseñar como colocar Data Tables en Ajax - CodeIgniter
+
 Paso 1: Colocar Data Tables de la forma convencional
 Paso 2: Colocar el llamado a Data Tables luego de imprimir los registros
